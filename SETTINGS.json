@@ -1,0 +1,23 @@
+
+{
+"_comment": "insert patient number",
+"pat": 2,
+"_comment": "do you want to make test features?",
+"make_test": 1,
+"_comment": "path to test data location",
+"test": "/vlsci/VR0003/levink/held_out_evaluation/held/test_2_new/",
+"_comment": "do you make to make train features?",
+"make_train": 0,
+"_comment": "path to train data location",
+"train": "/mnt/am02_scratch/blang/kaggle_data/CV/pat_1/train/",
+"_comment": "Do you want to make a hold-out feature set?",
+"make_hold": 0,
+"_comment": "path to hold-out data location",
+"hold-out": "/mnt/am02_scratch/blang/kaggle_data/CV/pat_1/test/",
+"_comment": "path to trained model location",
+"model": "./",
+"_comment": "path to generated features location",
+"feat": "./" ,
+"_comment": "path to submission location",
+"sub": "./"
+}
